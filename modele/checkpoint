@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/david/Documents/programmation/jeu_dame/modele/model_entrainement_reseau_neurone_learning_rate_variable"
+all_model_checkpoint_paths: "/home/david/Documents/programmation/jeu_dame/modele/model_entrainement_reseau_neurone_learning_rate_variable"
